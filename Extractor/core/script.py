@@ -47,7 +47,7 @@ PLANS_TXT = """
 <b><blockquote>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴇxᴄʟᴜsɪᴠᴇ ᴘʀᴇᴍɪᴜᴍ sᴇᴄᴛɪᴏɴ, ᴡʜᴇʀᴇ ʏᴏᴜ'ʟʟ ғɪɴᴅ ᴄᴜʀᴀᴛᴇᴅ ɪɴsɪɢʜᴛs ᴀɴᴅ ᴇxᴘᴇʀɪᴇɴᴄᴇs ᴛᴀɪʟᴏʀᴇᴅ ᴛᴏ ᴛʜᴏsᴇ sᴇᴇᴋɪɴɢ ᴛᴏᴘ-ᴛɪᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀɴᴅ sᴇʀᴠɪᴄᴇs.</blockquote>
 
 <blockquote>‼️ ᴀғᴛᴇʀ sᴇɴᴅɪɴɢ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.</blockquote></b>
-**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/ITsGOLU_OFFICIAL">𝐈𝐓'𝐬𝐆𝐎𝐋𝐔 🫠</a></blockquote>**
+**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/godson_extraction">GุุุุุุุุุุุุุุุุุุุุุุODSO่่่่่่่่่่่่่่่่N𓂀</a></blockquote>**
 """
 
     
