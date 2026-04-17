@@ -28,7 +28,7 @@ join = '<a href="">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
-UNSPLASH_QUERY = 'animal baby'
+UNSPLASH_QUERY = 'animal bab'
 # -----------------------------------------------
 ADMIN_BOT_USERNAME = "" #without @
 
