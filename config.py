@@ -28,11 +28,11 @@ join = '<a href="">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
-UNSPLASH_QUERY = 'animal baby'
+UNSPLASH_QUERY = 'godson'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "" #without @
+ADMIN_BOT_USERNAME = "" Godsonair01
 
-THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/DPCmWSKV/1000003297-3.png")
+THUMB_URL = os.environ.get("THUMB_URL", "https://repgyetdcodkynrbxocg.supabase.co/storage/v1/object/public/images/telegram-1776332735155-09d1e498.jpg")
 
 
 
